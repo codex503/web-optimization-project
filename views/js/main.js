@@ -1,3 +1,16 @@
+// gulp task to minify js
+
+var gulp = require('gulp'),
+   uglify = require('gulp-uglify');
+
+gulp.task('minify', function () {
+   gulp.src('js/main.js')
+      .pipe(uglify())
+      .pipe(gulp.dest('build'))
+});
+
+
+
 /*
 Welcome to the 60fps project! Your goal is to make Cam's Pizzeria website run
 jank-free at 60 frames per second.
