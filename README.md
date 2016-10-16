@@ -11,7 +11,7 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
     * re-sized views/images/pizzeria.jpg
     * re-sized views/images/pizza.png
     * added meta viewport tag in pizza.html line 4
-    * minified css
+    * Set css inline in index.html
     * minified js file using GULP JS
     * Moved movingPizzas1 div out of container line 10 and 11 pizza.html
     * changed range in for loop in main.js line 527 from 200 to 12

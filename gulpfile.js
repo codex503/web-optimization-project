@@ -7,6 +7,7 @@ gulp.task('default', function(){
 
 gulp.task('uglify', function(){
 	gulp.src('views/js/**/*.js')
+	gulp.src('js/**/*.js')
 		.pipe(uglify())
 		.pipe(gulp.dest('views/dist'));
 });
