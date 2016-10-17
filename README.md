@@ -22,4 +22,5 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
     * changed range in for loop in main.js line 527 from 200 to 12
     * changed variable s equal to 12 instead of 256 line 528 in main.js
     * created pizza_Resize value outside of loop line 453 in main.js
+    * moved dx and newwidth variables outside of for loop lines 454 455 main.js
     
