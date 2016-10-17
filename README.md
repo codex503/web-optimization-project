@@ -4,7 +4,7 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
     
 ## Link to the website here:
-    https://codex503.github.io/web-optimization-project/views/pizza.html
+    https://codex503.github.io/web-optimization-project/
 
 ## List of tasks performed to improve site performance:
 
