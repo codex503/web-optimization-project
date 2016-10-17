@@ -16,4 +16,5 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
     * Moved movingPizzas1 div out of container line 10 and 11 pizza.html
     * changed range in for loop in main.js line 527 from 200 to 12
     * changed variable s equal to 12 instead of 256 line 528 in main.js
+    * created pizza_Resize value outside of loop line 453 in main.js
     
