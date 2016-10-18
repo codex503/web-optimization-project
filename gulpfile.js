@@ -10,7 +10,7 @@ gulp.task('uglify', function(){
 
 // task for responsive images
 
-const gulp = require('gulp');
+
 const imagemin = require('gulp-imagemin');
  
 gulp.task('default', () =>
